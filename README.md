@@ -2,8 +2,8 @@
 Exercises in Algorithmic Toolbox Course
 
 ### Week 1
-. Sum of Two Digits  
-. Maximum Pairwise Product  
+- Sum of Two Digits  
+- Maximum Pairwise Product  
 Week 2
 Fibonacci Number
 Last Digit of a Large Fibonacci Number
