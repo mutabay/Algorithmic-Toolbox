@@ -1,6 +1,10 @@
-# Algorithmic-Toolbox
+# [Algorithmic-Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
 ### Exercises in Algorithmic Toolbox Course
+  ![image](https://user-images.githubusercontent.com/60510780/188171953-8280e6c3-3fa3-4c85-bb57-8a5fbec7ef47.png)
+
   <hr>   
+  
+  
 ### Week 1 | Programming Challenges
 - Sum of Two Digits  
 - Maximum Pairwise Product  
