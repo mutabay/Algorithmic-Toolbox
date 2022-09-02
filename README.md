@@ -1,6 +1,6 @@
 # Algorithmic-Toolbox
-Exercises in Algorithmic Toolbox Course
-
+### Exercises in Algorithmic Toolbox Course
+  <hr>   
 ### Week 1 | Programming Challenges
 - Sum of Two Digits  
 - Maximum Pairwise Product  
